@@ -2,7 +2,7 @@
 
 Ok lets make [game](https://github.com/DevelopeBatu/Game)
 
-##Install
+#Install
 
 ```bash
 pip install pygame
